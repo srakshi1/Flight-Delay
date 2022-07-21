@@ -3,7 +3,7 @@
 
 **Creator: Shardul Rakshit**
 
-**Link to Live Dashboard:** <a href="https://srakshi1.shinyapps.io/AirDashboard-main/" target="_blank">AirDashboard</a>
+**Link to Live Dashboard:** <a href="https://srakshi1.shinyapps.io/AirDashboard-main/" target="_blank">AirDashboard</a> (takes about 30 sec to load)
 
 **Link to raw dashboard code:** <a href ="https://github.com/srakshi1/Flight-Delay/blob/main/app.R" target="_blank">Raw Code</a> 
 
@@ -214,4 +214,3 @@ At the top of the data table, there is a selector that allows the user to select
 =======
 # Flight-Delay
 US Flight Delay Visualizer and Predictor
->>>>>>> main
