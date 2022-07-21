@@ -3,11 +3,9 @@
 
 **Creator: Shardul Rakshit**
 
-**Group of 1 person.**
-
 **Link to Live Dashboard:** <a href="https://srakshi1.shinyapps.io/AirDashboard-main/" target="_blank">AirDashboard</a> (takes about 30 sec to load)
 
-**Link to raw dashboard code:** <a href ="https://github.com/srakshi1/Flight-Delay/blob/main/app.R" target="_blank">Raw Code</a> 
+**Link to raw dashboard code:** <a href ="https://github.com/srakshi1/Flight-Delay/blob/master/app.R" target="_blank">Raw Code</a> 
 
 
 This readme explains how the US Flight Delay Dashboard works.
