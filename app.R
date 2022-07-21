@@ -1,5 +1,4 @@
 # load in libraries
-install.packages("shiny")
 library(shiny)
 library(shinydashboard)
 library(shinyjs)
