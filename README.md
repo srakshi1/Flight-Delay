@@ -3,6 +3,8 @@
 
 **Creator: Shardul Rakshit**
 
+**Group of 1 person.**
+
 **Link to Live Dashboard:** <a href="https://srakshi1.shinyapps.io/AirDashboard-main/" target="_blank">AirDashboard</a> (takes about 30 sec to load)
 
 **Link to raw dashboard code:** <a href ="https://github.com/srakshi1/Flight-Delay/blob/main/app.R" target="_blank">Raw Code</a> 
@@ -210,7 +212,4 @@ Displays the dataset used to visualize the plots. Does not have any specific usa
 
 **Usage:**
 
-At the top of the data table, there is a selector that allows the user to select which dataset to display. 
-=======
-# Flight-Delay
-US Flight Delay Visualizer and Predictor
+At the top of the data table, there is a selector that allows the user to select which dataset to display.
