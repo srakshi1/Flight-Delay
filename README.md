@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AirDashboard - US Flight Delay Dashboard
 --- 
 
