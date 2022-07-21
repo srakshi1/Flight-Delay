@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AirDashboard - US Flight Delay Dashboard
 --- 
 
@@ -213,3 +214,7 @@ Displays the dataset used to visualize the plots. Does not have any specific usa
 **Usage:**
 
 At the top of the data table, there is a selector that allows the user to select which dataset to display. 
+=======
+# Flight-Delay
+US Flight Delay Visualizer and Predictor
+>>>>>>> main
